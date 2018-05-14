@@ -1,7 +1,7 @@
 {
   "name": "linxljs",
   "version": "1.0.0",
-  "description": "linxl's javascript",
+  "description": "",
   "main": "min/linxljs.min.js",
   "scripts": {
     "build": "node script/build.js",
@@ -13,11 +13,6 @@
     "type": "git",
     "url": "git+https://github.com/vectorzero/linxljs.git"
   },
-  "keywords": [
-    "util",
-    "tool",
-    "common-util"
-  ],
   "author": "vectorzero",
   "license": "MIT",
   "devDependencies": {
@@ -39,5 +34,9 @@
     "rimraf": "^2.6.2",
     "webpack": "^3.8.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/vectorzero/linxljs/issues"
+  },
+  "homepage": "https://github.com/vectorzero/linxljs#readme"
 }
